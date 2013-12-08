@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Demac_Whoops>
+            <version>0.0.1</version>
+        </Demac_Whoops>
+    </modules>
+    <global>
+        <models>
+            <demac_whoops>
+                <class>Demac_Whoops_Model</class>
+            </demac_whoops>
+        </models>
+    </global>
+</config>
